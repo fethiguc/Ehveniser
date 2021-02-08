@@ -1,0 +1,13 @@
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\bin\Debug\Ehveniser.exe.config
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\bin\Debug\Ehveniser.exe
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\bin\Debug\Ehveniser.pdb
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\obj\Debug\Ehveniser.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\obj\Debug\Ehveniser.Form1.resources
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\obj\Debug\Ehveniser.Properties.Resources.resources
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\obj\Debug\Ehveniser.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\obj\Debug\Ehveniser.exe
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\obj\Debug\Ehveniser.pdb
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\obj\Debug\Ehveniser.Form2.resources
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\obj\Debug\Ehveniser.Form3.resources
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\obj\Debug\Ehveniser.Form4.resources
+C:\Users\Pc\Desktop\busniess\Ehveniser\Ehveniser\obj\Debug\Ehveniser.Form5.resources
